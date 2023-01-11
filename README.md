@@ -1,2 +1,2 @@
 # Lie-detector-using-Linear-regression-in-Java
-We compare the age group, skin conductance, and heart rate as the inputs in this measurement, and the output will indicate whether the person responded "true" or "false."
+This project uses linear regression to predict the truth and a lie based on the parameters - age category, skin conductance and heartrate.
